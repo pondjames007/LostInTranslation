@@ -46,6 +46,15 @@ Use http connection to communicate with Runway and Client.
 Client Code<br>
 Present the result and collect user input.
 
+### categories.json
+A Json file that store all sketch categories
+
+### draw_strokes.py
+functions to draw sketch
+
+### drawSketch.py
+a test function to draw sketch
+
 ### im2txt
 A machine learning model that can generate a sentence based on an image.<br>
 The model is originated from [models/research/im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt).
